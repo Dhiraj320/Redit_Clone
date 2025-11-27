@@ -10,12 +10,6 @@ Dark Mode
 
 Profile & Settings
 
-<img src="https://www.google.com/search?q=https://via.placeholder.com/200x400%3Ftext%3DHome%2BLight" width="200">
-
-<img src="https://www.google.com/search?q=https://via.placeholder.com/200x400%3Ftext%3DHome%2BDark" width="200">
-
-<img src="https://www.google.com/search?q=https://via.placeholder.com/200x400%3Ftext%3DProfile" width="200">
-
 Clean, readable feeds
 
 OLED-friendly dark theme
@@ -72,7 +66,7 @@ Follow these steps to get a local copy up and running.
 
 Prerequisites
 
-Flutter SDK (v3.x.x)
+Flutter SDK (v3.10.0)
 
 Dart SDK
 
@@ -82,8 +76,7 @@ Installation
 
 Clone the Repo
 
-git clone [https://github.com/dhiraj320/community-connect.git](https://github.com/dhiraj320/community-connect.git)
-
+git clone https://github.com/Dhiraj320/CommunityApp
 
 Install Dependencies
 
@@ -118,6 +111,13 @@ lib/
 │   └── home/
 ├── models/              # Dart Data Models
 └── main.dart            # Entry point
+
+
+
+
+
+
+
 
 
 
